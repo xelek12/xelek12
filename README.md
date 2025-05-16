@@ -1,66 +1,42 @@
 
 ---
 
-# Project Name
+````markdown
+# 👋 Hey there, I'm Cody
 
-A brief description of what this project does and who it's for.
+Welcome to my corner of GitHub.
 
-## 🚀 Features
+This repo doesn’t hold a traditional project – it’s the README that shows up on my profile. Just a little space to share my dev personality and keep things from feeling too empty.
 
-* List key features or functionality
-* Highlight technologies used
-* Mention any unique design choices or performance benefits
+## 🧠 What I do
 
-## 🛠️ Tech Stack
+- I write code that usually works on the first try (after 37 commits).
+- Mostly into **JavaScript**, **Python**, and exploring cool frameworks that I probably won’t finish learning.
+- Build-first, Google-later kind of dev.  
 
-* Language: e.g., Python / JavaScript / Go
-* Framework: e.g., React / Node.js / Django
-* Tools: e.g., Docker, Postgres, Redis
-
-## 🧑‍💻 Getting Started
-
-### Prerequisites
-
-* List requirements (e.g., Node.js, Python 3.x, Docker)
-
-### Installation
+## 🛠️ Not-a-Project
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/project-name
+# Placeholder project to keep the lights on
+git clone https://github.com/<your-username>/<your-username>.git
+cd not-a-project
+code .
+````
 
-# Navigate into the project directory
-cd project-name
+This isn’t a real repo, but who needs rules?
 
-# Install dependencies
-npm install
-```
+## 📫 Let's Connect
 
-### Running the App
-
-```bash
-# Start the development server
-npm run dev
-```
-
-## 📂 Project Structure
-
-```
-src/
-│
-├── components/     # Reusable UI components
-├── pages/          # Route-level components
-├── utils/          # Utility functions
-└── ...             # Other relevant folders
-```
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+Open to collabs, ideas, or just geeky convos.
+Reach out via GitHub Discussions, or send a PR just to say hi.
 
 ---
 
+✨ *Work in progress, just like everything else in dev life.*
+
+```
+
+---
+
+Let me know if you want to adjust the tone—more serious, more meme-y, more professional, etc.
+```
