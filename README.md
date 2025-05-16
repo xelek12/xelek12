@@ -35,8 +35,3 @@ Reach out via GitHub Discussions, or send a PR just to say hi.
 ✨ *Work in progress, just like everything else in dev life.*
 
 ```
-
----
-
-Let me know if you want to adjust the tone—more serious, more meme-y, more professional, etc.
-```
